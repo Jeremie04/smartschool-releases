@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Nouveautés :\n- Inscriptions et réinscriptions, fiches élèves avec photo, parents et fratries.\n- Départs, radiations, changements de classe et réintégrations.\n- Notes, moyennes, bulletins trimestriels et annuels, appréciations et décisions de fin d'année.\n- Examens : planning des épreuves, saisie et clôture des notes par matière.\n- Présences : appel par demi-journée, justification des absences, cumuls et alertes.\n- Discipline : registre des incidents, sanctions et convocations.\n- Personnel : dossiers des enseignants et du personnel administratif.\n- Calendrier scolaire de l'année.\n- Écolage : tarifs, échéanciers, remises, encaissements, reçus numérotés et liste des impayés.\n- Certificats de scolarité, listes de classe et exports Excel.\n- Langue choisie par utilisateur et par document (français ou malgache).\n- Sauvegarde automatique quotidienne et restauration guidée.\n- Assistant de premier lancement et code de récupération du compte administrateur.\n- Mises à jour automatiques : téléchargées en arrière-plan, installées à la fermeture.",
+  "pub_date": "2026-10-27T15:23:50.829Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScFBHMzRBVFROMWx3MVpMOURXTzdoNC9Zbm0xVkwxR29xTytneUdsalVDQWthQktNa0JUM2w0M0c2Z2dHdi9XQWtlbGF3QnAwdmtQTy81RDlyYUtvbEdEUWs0MUpTZmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE0NjI5CWZpbGU6U21hcnRTY2hvb2xfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCkpqR2F4WmVsOFRQUUFnVFhPUndiZGJ2dFZ3NGkvcWpJWE1WSHFUeVphK3Q2U1FMYjZ0cWUxOFRZaDlLSTRXbHFXUTF3MjJxVUFTYUhGYUwxMzVDWURBPT0K",
+      "url": "https://github.com/Jeremie04/smartschool-releases/releases/download/v0.1.0/SmartSchool_0.1.0_x64-update.exe"
+    }
+  }
+}

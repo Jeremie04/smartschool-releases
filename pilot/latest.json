@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Nouveautés :\n- Si une mise à jour échoue, SmartSchool revient tout seul à la version précédente, avec vos données.\n- Une sauvegarde est toujours faite juste avant une mise à jour, et gardée tant que la nouvelle version n'a pas démarré.\n- Mise à jour possible sans Internet, depuis une clé USB : Paramètres › Mises à jour › « Installer depuis un fichier ».",
-  "pub_date": "2026-10-27T17:29:11.059Z",
+  "version": "0.1.2",
+  "notes": "Nouveautés :\n- Emploi du temps : salles, grilles horaires par cycle, remplissage automatique, déplacement ou échange d'une séance en un geste, charges horaires et tableau de service imprimé.\n- Caisse : sessions de caisse, clôture avec écarts et journal.\n- Comptabilité simplifiée : dépenses et fournisseurs.\n- États financiers de l'écolage et relevé par famille à remettre aux parents.\n- Documents : attestations et cartes d'élève avec modèles paramétrables.\n- Notes : bonus et malus sur les épreuves d'examen.\n- Présences : absences consécutives justifiées en une fois.\nCorrections :\n- Installation : arrêt clair si un autre programme occupe le port de la base de données.",
+  "pub_date": "2026-11-01T16:10:26.136Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScFBHMzRBVFROMW1uT2sxUS90MUlBN0g2aTAxOXdSb25TTTgrSWFHcVFCZ0xHMm91ejhIdU1sQ29KQWlhajllZGFwa3N2eStmMXcyQXpnc1l3VFFUdUJ1bnp3Y1pHNndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTIyMTQ4CWZpbGU6U21hcnRTY2hvb2xfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCjBka0NGM0NZeFJONEplMHR2S2J6dGtlaUpKdlp6Sks1L3A4MjhldjRwNmJobERNWEp3VUxqcWRSdlVDUFUwa283aW5RT2RTU00wMm5zcEVLd2Q2NkNRPT0K",
-      "url": "https://github.com/Jeremie04/smartschool-releases/releases/download/v0.1.1/SmartSchool_0.1.1_x64-update.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScFBHMzRBVFROMXNhM05wRzc2bkExQW9IWDUzcG9GOG94TDl0em1va1J4ZDBub2VRa1dJSHhBMi9CTGIwVktxYTE3eGNBY2hDSVpCWTJ3SVpIZjR6UldMM3hFRnJKS1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQ5NDI0CWZpbGU6U21hcnRTY2hvb2xfMC4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yCitObHdteTcwZnBPN29Pd2d3S3h0Z2tGVytqL3E5SlVUMytVRS9QWlNTVXJDWllmenl3a1p4bWdMNTlqdHpTejFuZEFGU1l5UjRlWlRKVjk2bXpwUkNBPT0K",
+      "url": "https://github.com/Jeremie04/smartschool-releases/releases/download/v0.1.2/SmartSchool_0.1.2_x64-update.exe"
     }
   }
 }

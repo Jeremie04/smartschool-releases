@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Nouveautés :\n- Classes : liste des classes, fiche de chaque classe et « Mes classes » pour l’enseignant ; responsabilités d’élève (chef de classe, délégués).\n- Examens officiels CEPE, BEPC et BACC : candidats, résultats, tableau d’honneur et progression.\n- Notes : matières optionnelles (LV2, options) choisies par élève, barème propre à une matière ou fixé dans l’examen, bonus et malus au fil des cours, correction d’une note après verrouillage.\n- Emploi du temps : absences des enseignants et remplacements, heures assurées et recherche d’une salle libre.\n- Tableau de bord adapté à chaque rôle, avec alertes, graphiques et cours du jour de l’enseignant.\n- Rapports : statistiques, bibliothèque de rapports et export CSV, Excel ou PDF de toutes les listes.\n- Caisse : rappels d’ouverture et de clôture, jour par jour, à l’heure choisie.\n- Fiche élève : date de la photo et anciennes photos à remettre ; séries d’absences.\n- Personnel et salles : fonctions et bâtiments choisis dans des listes du paramétrage.\n- Confort : verrouillage de l’écran après inactivité, question avant de quitter un écran non enregistré, recherche dans les listes d’enseignants, bouton retour vers l’écran précédent, aides derrière un « ? ».\n- Consulter une autre année scolaire et choisir le cycle depuis la barre du haut.\n- Application disponible en malgache et en anglais.\nCorrections :\n- Impression : plus d’adresse ni de date en bas des pages.\n- La session reste ouverte au déverrouillage après une autre connexion.",
-  "pub_date": "2026-11-09T19:23:03.441Z",
+  "version": "0.2.1",
+  "notes": "Nouveautés :\n- Emploi du temps : un enseignant qui a cours dans deux cycles aux horaires différents voit une grille par cycle (Collège, Lycée), chacune avec ses horaires.\nCorrections :\n- Emploi du temps : les horaires ne s’éparpillent plus dans les vues Enseignant et Classe.\n- Caisse : plus de rappel de clôture juste après avoir ouvert la caisse le soir.",
+  "pub_date": "2026-11-09T20:46:53.998Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScFBHMzRBVFROMXFxMHgwMzUyU3pTMVhaMHQyYU8xM0h6ZXFiTTZRMnFXSG90bWFsMkI3NUVPZjdIYVlXRUJtSkYrK3ZId1VzNEhReGlpTEoxMnFyL042a2Y3bFJxaHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjUyMTc5CWZpbGU6U21hcnRTY2hvb2xfMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wClpybUU1NytraWRlZjNUemlVeHBrZmdQZEZkczBkNWViT0VFTmVlekRKSzhGRjZlOStQM2l0bExGc1poYkNjN3BSbkd6SXZ6cStLVklBQ1BhdTQxekRBPT0K",
-      "url": "https://github.com/Jeremie04/smartschool-releases/releases/download/v0.2.0/SmartSchool_0.2.0_x64-update.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScFBHMzRBVFROMXErbzJ3TytuU05kRE1zL2UzK1ZVV1JJWlI4UkpudmJaY2J0WWZMZmpuc3o1b1NRYy94QWM3WjkvN1F1c2ZYSjQ4a3J4QmM1bk5vd3VpeTEvbmpkSlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU3MjEyCWZpbGU6U21hcnRTY2hvb2xfMC4yLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4xCkxEeVhMdUZRMEw1R1hJZ09EakhtR0xGZ0pYc2d2NEVwTW5LMDlQejdLTWJiQkVUTER1YXBFL1lSbDJGQ1o5dzJLOXRCa3k2YnlTSkovVEF0OTYrRkJRPT0K",
+      "url": "https://github.com/Jeremie04/smartschool-releases/releases/download/v0.2.1/SmartSchool_0.2.1_x64-update.exe"
     }
   }
 }
